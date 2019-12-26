@@ -9,4 +9,5 @@ TemplateMethod					模板模式
 ObserverPattern					观察者模式
 MediatorPattern					中介者模式
 ChainOfResponsibilityPattern	职责链模式
+AdapterPattern					适配器模式
 
