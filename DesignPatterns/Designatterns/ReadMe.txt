@@ -10,4 +10,14 @@ ObserverPattern					观察者模式
 MediatorPattern					中介者模式
 ChainOfResponsibilityPattern	职责链模式
 AdapterPattern					适配器模式
+Iterator						迭代器模式
+Command							命令模式
+Facadc							外观模式
+Composite						组合模式
+
+
+
+
+
+
 
